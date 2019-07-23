@@ -1,7 +1,7 @@
 from urllib.request import urlopen
 import json
 
-# some comments here
+# API key for openweathermap.org. You can obtain your own for free.
 api_key = "xxxxxxx"
 
 def get_weather(city):
