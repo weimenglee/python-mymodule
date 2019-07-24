@@ -1,6 +1,7 @@
 from urllib.request import urlopen
 import json
 
+#---you can apply for your own API key---
 api_key = "xxxxxxx"
 
 def get_weather(city):
